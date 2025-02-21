@@ -106,8 +106,8 @@ The server will start on `http://localhost:2020/`.
 
 If they don't exist, create them manually to avoid errors.
 
-## Contributing
-Feel free to fork, modify, and contribute to the project!
+# IMPORTANT NOTICE
+This project was made for 2 years and now retired. This code is for public use and base or anything else you want. I know there is a security issue but I don't mind to be hacked. Have fun!
 
 ## License
 MIT License
